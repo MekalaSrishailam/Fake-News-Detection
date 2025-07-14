@@ -1,4 +1,4 @@
-# Fake_news_identification_Infosys_Internship_Oct2024
+# Fake_news_identification
 
 # Project Statement:
  Thanks to the digital era, any news can spread world-wide within fraction of seconds. But, are the things we read
